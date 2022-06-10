@@ -15,7 +15,8 @@ Portugues brasileiro
 
 Um simulador de bate-papo RPG. Este é um projeto simples feito para se divertir.
 
-Primeiro ele inicializa obtendo as informações dos "jogadores" na pasta "Banco de dados". Em seguida, um loop começa com o atraso máximo por frase definido em "Program.cs".
+Primeiro ele inicializa obtendo as informações dos "jogadores" na pasta "Banco de dados". 
+Em seguida, um loop começa com o atraso máximo por frase definido em "Program.cs".
 
 Depois disso, é apenas uma questão de tempo até que você encontre algo engraçado :)
 
